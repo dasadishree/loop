@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object4",
+  "%Name":"oSolid",
   "eventList":[],
   "managed":true,
-  "name":"Object4",
+  "name":"oSolid",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sPlatform",
-    "path":"sprites/sPlatform/sPlatform.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

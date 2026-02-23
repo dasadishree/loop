@@ -22,9 +22,10 @@
   },
   "name":"Loop",
   "resources":[
-    {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"oHole","path":"objects/oHole/oHole.yy",},},
+    {"id":{"name":"oPlatform","path":"objects/oPlatform/oPlatform.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"oSolid","path":"objects/oSolid/oSolid.yy",},},
     {"id":{"name":"oSpring","path":"objects/oSpring/oSpring.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"sHole","path":"sprites/sHole/sHole.yy",},},
