@@ -34,7 +34,7 @@ if (y > room_height or y < 0 or x > room_width or x < 0) { // if the player is o
     room_restart(); 
 }
 if (place_meeting(x, y, oHole)) {
-    room_restart()
+	room_goto(Room3);
 }
 
 if(place_meeting(x,y,oSpring)){
